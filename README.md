@@ -1,7 +1,7 @@
 # Assignment 2
 
 ## Live Demo URL
-
+https://dronenow.vercel.app/
 
 ## Features
 

@@ -22,7 +22,7 @@ Page 3: View Logs
 ## Setup
 
 ```bash
-git clone <your-repo>
+git clone <https://github.com/natnichaxxx/Assignment2.git>
 npm install
 ```
 

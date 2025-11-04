@@ -96,7 +96,7 @@ export default function LogsPage() {
               </Badge>
             </div>
             <h1 className="text-7xl md:text-8xl font-bold mb-6 glow-text">
-              Temperature
+              Drone
               <br />
               <span className="text-primary">Logs</span>
             </h1>

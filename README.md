@@ -1,7 +1,7 @@
 # Assignment 2
 
 ## Live Demo URL
-
+https://dronenow.vercel.app/
 
 ## Features
 
@@ -20,7 +20,7 @@
 ## Setup
 
 ```bash
-git clone <your-repo>
+git clone <https://github.com/natnichaxxx/Assignment2.git>
 npm install
 ```
 
